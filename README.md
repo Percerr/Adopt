@@ -8,6 +8,8 @@ npm install
 
 # e chamar o arquivo index.js
 cd backend;
-nodemon index.js
+npm run start;
 
+cd frontend;
+npm start;
 
